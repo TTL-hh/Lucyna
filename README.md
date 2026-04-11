@@ -1,4 +1,4 @@
-# SQL_SERVER_Practice_Trlvu_
+# SQL_SERVER_Practice
 ## Thông tin sinh viên:
 + **Họ và tên:** Trần Tùng Lâm
 + **Lớp:** K59KMT.K01
@@ -71,7 +71,6 @@
 <img width="1919" height="1079" alt="Screenshot 2026-04-10 222223" src="https://github.com/user-attachments/assets/abeb2d2b-00f9-421d-9f0d-445b52d87abf" />
 
 + Import dữ liệu thành công
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/23b93468-8847-4282-921a-cccdb8a387fe" />
 
 ### 9. Kiểm tra số dòng của bảng dữ liệu sau khi import
 
@@ -89,16 +88,16 @@
 
 ### 13. Xóa những sinh viên có cùng họ Trần
 
-### 14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file `dulieu.sql`
+### 14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file ``
 
-+ Xuất file `dulieu.sql` thành công
++ Xuất file `` thành công
 
 ### 15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
 
 + Kiểm tra path 
 
-### 16. Mở file dữ liệu `dulieu.sql`
+### 16. Mở file dữ liệu ``
 
 
-### 17. Upload file `dulieu.sql` lên Github repository của em
+### 17. Upload file `` lên Github repository của em
 
