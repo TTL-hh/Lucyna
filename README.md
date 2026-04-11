@@ -71,33 +71,43 @@
 <img width="1919" height="1079" alt="Screenshot 2026-04-10 222223" src="https://github.com/user-attachments/assets/abeb2d2b-00f9-421d-9f0d-445b52d87abf" />
 
 + Import dữ liệu thành công
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c60d8308-f89c-46a0-a3df-fa6f9e72e9f5" />
 
 ### 9. Kiểm tra số dòng của bảng dữ liệu sau khi import
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0258ca06-ad65-44c5-ba82-d86b99b8247a" />
 
 ### 10. Thêm dữ liệu cá nhân của sinh viên vào bảng
 
 + Thêm dữ liệu thành công
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1ed96279-33b9-4a7c-b9b7-d2e42d8a4fb8" />
 
 + Kiểm tra dữ liệu sau khi nhập
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09eea96a-22b2-49c2-bf3a-5d86bad43dc2" />
 
 ### 11.  Gõ lệnh để update trường _noisinh_ thành 'Sao Hoả' cho những dòng có _noisinh_ và _diachi_ đều là NULL
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5c497d6-8143-46d8-8559-5ab37e6396ab" />
 
 ### 12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
 
 + Kiểm tra bảng SaoHoa
+<img width="1919" height="1079" alt="Screenshot 2026-04-11 140949" src="https://github.com/user-attachments/assets/2fb154b0-c057-4ff5-be73-a9fdc2951710" />
 
 ### 13. Xóa những sinh viên có cùng họ Trần
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/227b332e-453a-41b6-ab28-d88569f4d69b" />
 
 ### 14. Xuất toàn bộ kết quả của các bước 6 -> 13 ra file ``
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbaae428-f330-4830-a489-a395926cea0a" />
 
 + Xuất file `` thành công
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/533b69c3-439b-416f-afcc-952ad3d168c2" />
 
 ### 15. Xóa cơ dở dữ liệu `Quanly_Sinhvien`
 
 + Kiểm tra path 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8ebd88d-72d3-4e2a-9625-6840a95a637b" />
 
 ### 16. Mở file dữ liệu ``
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/04cdbe47-70c9-43eb-bfe0-4ada02228779" />
 
 ### 17. Upload file `` lên Github repository của em
 
